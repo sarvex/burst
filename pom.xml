@@ -28,7 +28,7 @@
 
     <junit.version>4.11</junit.version>
 
-    <assertj.version>1.6.1</assertj.version>
+    <assertj.version>3.27.7</assertj.version>
     <dexmaker.version>1.2</dexmaker.version>
   </properties>
 
